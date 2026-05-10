@@ -1,6 +1,6 @@
 package com.example.codefusion.di
 
-import com.example.codefusion.data.remote.api.UserApi
+import com.example.codefusion.features.dashboard.data.remote.api.UserApi
 import dagger.Module
 import dagger.Provides
 import dagger.hilt.InstallIn

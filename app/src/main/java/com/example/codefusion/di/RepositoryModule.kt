@@ -1,7 +1,8 @@
 package com.example.codefusion.di
 
-import com.example.codefusion.data.repository.UserRepositoryImpl
-import com.example.codefusion.domain.repository.UserRepository
+
+import com.example.codefusion.features.dashboard.data.repository.UserRepositoryImpl
+import com.example.codefusion.features.dashboard.domain.repository.UserRepository
 import dagger.Binds
 import dagger.Module
 import dagger.hilt.InstallIn
